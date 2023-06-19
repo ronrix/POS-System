@@ -50,10 +50,11 @@
 - add customer's change (check)
 
 # Need to revise
-> clear delete all button (check)
-> clear cashierform navigation buttons, close-min-max (check)
-> Database
+- clear delete all button (check)
+- clear cashierform navigation buttons, close-min-max (check)
+
+> **Database**
 - close all connection after using it (check)
 
 # What to add
-	- User ,anual page
+	- User manual page
