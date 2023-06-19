@@ -1,9 +1,10 @@
+# Point of Sale System with VB.net
 
-# save transaction details after clicking cash button (clear)
-	- issue -> parameter barcode has no default value 
+## Issues 
+- parameter barcode has no default value 
 
 
-# ADMIN
+### ADMIN
 > Dashboard page
 - Sales Report (print function)
 	- revenue report (monthly or yearly)
@@ -34,7 +35,7 @@
 	- add account CRUD (check)
 	- cashier and admin CRUD (check)
 
-# CASHIER
+### CASHIER
 - discount (coupon) (check)
 - decrease inventory stock after transaction (check)
 - add barcode scanner on barcode textbox (check)
@@ -49,12 +50,12 @@
 - print receipt warning (check)
 - add customer's change (check)
 
-# Need to revise
+### Need to revise
 - clear delete all button (check)
 - clear cashierform navigation buttons, close-min-max (check)
 
 > **Database**
 - close all connection after using it (check)
 
-# What to add
+### What to add
 	- User manual page
